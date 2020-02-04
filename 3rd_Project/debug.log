@@ -1,0 +1,6 @@
+[0202/141943.076:ERROR:process_info.cc(359)] UncheckedAllocate
+[0202/151746.511:ERROR:process_info.cc(359)] UncheckedAllocate
+[0202/151806.700:ERROR:process_info.cc(359)] UncheckedAllocate
+[0202/151806.715:ERROR:process_info.cc(359)] UncheckedAllocate
+[0202/151806.790:ERROR:process_info.cc(359)] UncheckedAllocate
+[0202/151857.568:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\taimo\AppData\Local\Temp\scoped_dir36480_92221990\Crashpad\reports\26237364-8149-4eac-8f43-fad916404e50.dmp: The process cannot access the file because it is being used by another process. (0x20)
